@@ -5,4 +5,4 @@
 4. https://github.com/DmitrijStr/mesto Code Example.
 5. https://dmitrijstr.github.io/mesto/ (native js), https://github.com/DmitrijStr/how-to-learn (static html), https://github.com/DmitrijStr/russian-travel(static html adaptive response)
 6. Yandex practicum, hexlet.
-7. English lvl - b2.
+7. English lvl - b2. Learning everyday on lingvoleo, have a personal teacher (my gf :D)
